@@ -63,6 +63,10 @@ SOFTWARES:
   20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.
   https://detectify.com/lp/black-friday-professional-plan-offer 
   
+  - Online PKI Assessment Portal for Microsoft ADCS based environments
+  80% off one-time online Microsoft PKI Assessment or 12-month unlimited license. Pricing valid until Dec 4
+  https://www.pkisolutions.com/assessments/#online
+  
   
 PASSWORD MANAGERS:
 -----------------------------------------------------------------------------------------
